@@ -59,16 +59,16 @@
 	     border-bottom: 5px solid #fc9082;
 }
 
-#info ul {	 bottom:20px;
-			 padding:0;
-			 left:40%;
+#info ul {	 bottom:30px;
+			 padding-bottom:10px;
+			 left:35%;
 			 position:relative;
 			 list-style-type:none;
 			 float:left;
 }
  
 #about  { float:left;
-		  padding-top:55px;
+		  padding-top:50px;
 		  border-radius:10px;
 		  border-bottom: 5px solid #fc9082;
 }
@@ -107,9 +107,28 @@
 
 footer{ background-color:#fc9082;
 		color:black;
-		bottom:400px;
 	  }
 	  
 #resume { font-family:Courier New,Monospace;}		
 
-#
+#resume h1 { 
+			 text-align:center;
+			 border-radius:10px;
+			 border-bottom: 5px solid #fc9082;
+		   }
+		   
+#happy { font-family: 'Paytone One', sans-serif;
+		 font-weight:400;
+		 background-image: url("../css/Carnival.jfif");
+		 background-position:100%;
+		 color:#5cbdea;			 
+	   }
+	   
+#happy h1 { text-align:center;
+			border-radius:10px;
+		    border-bottom: 5px solid black;
+			padding-bottom:10px;
+		  }
+#happy p { text-align:center;}		  
+
+
