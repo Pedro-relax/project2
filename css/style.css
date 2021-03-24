@@ -142,15 +142,14 @@ footer{ background-color:#fc9082;
 	   
 #shi { padding-left:70px;}
 
-iframe { margin:center; 
-		 box-shadow: inset 0 0 50px #fff,
+iframe { box-shadow: inset 0 0 50px #fff,
 		 inset 20px 0 80px #5cbdea,
 		 inset -20px 0 80px #5cbdea,
 		 inset 20px 0 80px #5cbdea,
 		 inset -20px 0 80px #5cbdea,
 		 0 0 50px #fff,
 		-10px 0 80px #5cbdea,
-		10px 0 80px #5cbdea;
+		 10px 0 80px #5cbdea;
 	   }
 
 #happy h2 { text-align:center;}
