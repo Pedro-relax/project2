@@ -117,9 +117,13 @@ footer{ background-color:#fc9082;
 			 border-bottom: 5px solid #fc9082;
 		   }
 		   
+#wrapper { width: 960px;
+			margin:0 auto;
+		 }
+		   
 #happy { font-family: 'Paytone One', sans-serif;
 		 font-weight:400;
-		 background-image: url("../css/Carnival.jfif");
+		 background-image: url("../css/black.jfif");
 		 background-position:100%;
 		 color:#5cbdea;			 
 	   }
@@ -132,15 +136,17 @@ footer{ background-color:#fc9082;
 		  
 #happy p { text-align:center;}	
 
-#dogs h3 { padding-bottom:10px}	
+#dogs {	width: 960px;
+		margin: 0 auto;
+	  }
+	  
+#inu { width: 960px;
+		margin-bottom:auto;
+	 }
 
-#do  { padding:5px;}
-			
-#inu h3{ float:left;
-		 padding-bottom:8px;	
-	   }
-	   
-#shi { padding-left:70px;}
+#videos {width: 960px;
+		 margin: 0 auto;
+		}
 
 iframe { box-shadow: inset 0 0 50px #fff,
 		 inset 20px 0 80px #5cbdea,
