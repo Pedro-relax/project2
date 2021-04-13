@@ -107,6 +107,7 @@
 
 footer{ background-color:#fc9082;
 		color:black;
+		margin-top:70px;
 	  }
 	  
 #resume { font-family:Courier New,Monospace;}		
@@ -136,15 +137,17 @@ footer{ background-color:#fc9082;
 		  
 #happy p { text-align:center;}	
 
-#dogs {	width: 960px;
-		margin: 0 auto;
+#dogs {	width: 400px;
+		margin-left:80px ;
 	  }
 	  
-#inu { width: 960px;
-		margin-bottom:auto;
+#inu { width: 400px;
+		margin-left: 542px;
+		padding-bottom:40px;
+		
 	 }
 
-#videos {width: 960px;
+#videos {width: 650px;
 		 margin: 0 auto;
 		}
 
